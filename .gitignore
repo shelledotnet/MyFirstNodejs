@@ -348,3 +348,11 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Visual Studio Code
+node_modules
+.env
+node-v16.14.2-x64.msi
+Node.js Full Course for Beginners _ Complete All-in-One Tutorial _ 7 Hours.mp4
+VsCode_shortcuts_Keys.pdf
+VSCodeUserSetup-x64-1.66.2.exe
