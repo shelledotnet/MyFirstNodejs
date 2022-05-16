@@ -1,0 +1,27 @@
+
+
+Request reading  : today is the day
+
+issue completing request : Error: ENOENT: no such file or directory, open 'C:\shelle\C#\Nodejs\birtdaykd.txt'
+
+issue completing request : TypeError: Assignment to constant variable. 20220421:17:08:18
+
+issue completing request : TypeError: Assignment to constant variable. 20220421:17:10:01
+
+Request reading  : today is the day
+
+Request reading  : today is the day 20220421:17:12:09
+
+Request reading  : today is the day 	 20220421:18:06:51 	 9c35a7d0-7f96-4b69-824f-b638924d0b69
+
+Request reading  : today is the day 	 20220421	18:14:36 	 ab7fd93e-eba6-41b2-af20-da3935782a97
+
+Request reading  : today is the day 	 20220421	21:19:27 	 08c4cc7e-8b61-4d3f-9e86-6ef8b0aa2134
+
+issue completing request : Error 	 ENOENT: no such file or directory, open 'C:\shelle\C#\Nodejs\birtdaay.txt'	 20220421	23:41:08 	 a81c1850-9d75-4ced-a9cd-21fe44ae40ca
+
+issue completing request : Error 	 ENOENT: no such file or directory, open 'C:\shelle\C#\Nodejs\birtdaay.txt'	 20220422	10:37:12 	 0ce6801f-2eca-4216-84eb-8c84f7ae397b
+
+Request reading  : today is the day 	 20220422	10:41:10 	 c0f022c8-3b6f-41bc-9725-90aa0ca31107
+
+Request reading  : today is the day 	 20220422	10:58:09 	 e047b7a0-18c9-40f6-af98-c2293aad1f8c
